@@ -1,0 +1,20 @@
+{
+    "app_name": "Aurrex Trade",
+    "package_name": "com.aurrextrade.app",
+    "version": "1.0.0",
+    "version_code": 100,
+    "website_url": "https:\/\/aurrextrade.com\/",
+    "orientation": "both",
+    "fullscreen": true,
+    "enable_splash": true,
+    "splash_color": "#6366f1",
+    "splash_duration": 2,
+    "offline_mode": true,
+    "back_button": false,
+    "file_downloads": false,
+    "description": "Aurrex Trade is a comprehensive trading platform that connects users to global markets, providing access to a wide range of financial instruments and resources. Learn more about our features and capabilities by visiting our website at https:\/\/aurrextrade.com\/.",
+    "build_id": "69570d7b49622_1767312763",
+    "app_icon_path": "\/var\/www\/html\/uploads\/app_icon_69570d7b49622_1767312763.png",
+    "splash_icon_path": "\/var\/www\/html\/uploads\/splash_icon_69570d7b49622_1767312763.png",
+    "created_at": "2026-01-02 00:12:43"
+}
